@@ -1,0 +1,1 @@
+{"expo":{"name":"BD Shorts","slug":"bd-shorts","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"dark","backgroundColor":"#050505","android":{"package":"com.bdshorts.app","versionCode":1,"targetSdkVersion":36},"plugins":[["expo-image-picker",{"photosPermission":"BD Shorts lets you choose videos to share.","microphonePermission":false}],"expo-video"]}}
